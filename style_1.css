@@ -1,0 +1,7 @@
+*{
+	text-align: center;
+}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}

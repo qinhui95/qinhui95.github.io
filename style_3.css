@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding-top: 0;
+}
+h1 {
+	background-color: grey;
+	color: white;
+	border-bottom: 1px black dotted;
+}
+h2 {
+	height: 100px;
+	width: 150px;
+	float:left;
+	padding-top:100px; 
+	background-color: lightgrey;
+	text-align: center;
+	margin-right: 20px;
+}
+.qh {
+	height:200px;
+	border-bottom: 2px #DCDCDC solid;
+}
+.tab {
+	padding-top:20px;
+	height:130px;
+}
+.content {
+	display: inline-block;
+	padding-right:20px;
+	padding-left: 5px;
+}
